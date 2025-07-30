@@ -43,7 +43,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science and Engineerin
 ## 🎯 Goals
 
 - Build impactful projects that solve real-world problems.
-- Land my first internship in **software development** or **web development**.
 - Contribute to open-source projects.
 
 ---
