@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science and Engineerin
 
 - Full-stack development with **MERN stack**
 - **AI/ML** concepts and applications
-- Improving **JavaScript ES6+** skills
 
 ---
 
